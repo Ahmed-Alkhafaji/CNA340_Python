@@ -40,3 +40,4 @@ print(lone_sum(1, 2, 4)) # here we can use different numbers, in this case 1 is 
  #Output    7
 
 
+
